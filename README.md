@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arnold Zevallos</h1>
 <h3 align="center"> ¡¡🙋‍♂️A boy with pure inspiration!! </h3>
 
+![](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnoldzevallos&label=Profile%20views&color=0e75b6&style=flat" alt="arnoldzevallos" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnoldzevallos" alt="arnoldzevallos" /></a> </p>
