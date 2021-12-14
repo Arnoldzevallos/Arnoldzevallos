@@ -13,15 +13,14 @@
 
 - 🤝 I’m looking for help with **Lenguajes de programación**
 
-- 👨‍💻 All of my projects are available at [Facebook, Instagram](Facebook, Instagram)
+- 👨‍💻 All of my projects are available at [Facebook, Instagram]
 
-- 📝 I regularly write articles on [frases creadas por mi, inspiración pura.](frases creadas por mi, inspiración pura.)
-
+- 📝 I regularly write articles on [frases creadas por mi, inspiración pura.]
 - 💬 Ask me about **Frases inspiradores y códigos de programación**
 
 - 📫 How to reach me **arnold.zevallos@utec.edu.pe**
-
-- 📄 Know about my experiences [Me dedico a crear contenido para diferentes plataformas, escribiendo mi pasión e imaginándome en un universo abstracto](Me dedico a crear contenido para diferentes plataformas, escribiendo mi pasión e imaginándome en un universo abstracto)
+      
+- 📄 Know about my experiences [Me dedico a crear contenido para diferentes plataformas, escribiendo mi pasión e imaginándome en un universo abstracto]     
 
 - ⚡ Fun fact **I am funny and smart**
 
